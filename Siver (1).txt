@@ -7,11 +7,9 @@ vless://8d5c7229-6060-4b81-a5da-0a7d9a75468f@64.233.163.102:443?path=%2F&securit
 vless://8d5c7229-6060-4b81-a5da-0a7d9a75468f@64.233.161.81:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fdsfd-1015753082551.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Neymar%209%20%F0%9F%87%B3%F0%9F%87%B1
 vless://de740bc6-3672-4c26-b247-62f8291f85a4@8.47.69.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=atlantic.vk221.online&fp=chrome&type=ws&allowInsecure=0&sni=atlantic.vk221.online#%F0%9F%87%A6%F0%9F%87%B7Kakajan%2015
 vless://de740bc6-3672-4c26-b247-62f8291f85a4@8.47.69.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=atlantic.vk221.online&fp=chrome&type=ws&allowInsecure=0&sni=atlantic.vk221.online#%F0%9F%87%A6%F0%9F%87%B7Messi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@45.152.86.2:450#%F0%9F%87%B1%F0%9F%87%BB%20New%20ss%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.222:443#%F0%9F%87%B3%F0%9F%87%B4%20Norway%202-1%20Brazil
-vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@151.101.117.161:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=oh13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=manage.fastly.com#%F0%9F%87%B8%F0%9F%87%AA%20Kakajan6775
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.222:443#%F0%9F%87%BA%F0%9F%87%B8%20Amerika%20Ilon%20musk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.131.215.77:443#%F0%9F%87%A8%F0%9F%87%AD%20Sbeater
-vless://de740bc6-3672-4c26-b247-62f8291f85a4@45.133.210.222:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Mbappe
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@45.152.86.2:450#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20lada
-vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@45.153.184.95:443?mode=packet-up&path=%2Fgoogle&security=tls&fragment=2%2C0-1%2Ctlshello&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=frost.begon.site&fp=chrome&type=xhttp&allowInsecure=0&sni=frost.begon.site#%F0%9F%87%A9%F0%9F%87%AA%20Bmw%20Mercedes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@209.222.30.148:443#%F0%9F%87%B3%F0%9F%87%B4%20Kako%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@209.222.30.148:443#%F0%9F%87%A8%F0%9F%87%AD%20Kako%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@209.222.30.148:443#%F0%9F%87%AB%F0%9F%87%AE%20Kako%203
+vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@8.6.112.0:443?mode=packet-up&path=%2Fgoogle&security=tls&fragment=2%2C0-1%2Ctlshello&alpn=h2&encryption=none&insecure=0&host=frost.begon.site&fp=chrome&type=xhttp&allowInsecure=0&sni=frost.begon.site#%F0%9F%87%AB%F0%9F%87%AE%20Kako%204
+vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@8.6.112.0:443?mode=packet-up&path=%2Fgoogle&security=tls&fragment=2%2C0-1%2Ctlshello&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=frost.begon.site&fp=chrome&type=xhttp&allowInsecure=0&sni=frost.begon.site#%F0%9F%87%A7%F0%9F%87%B7%20Kako%205
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@178.253.55.178:450#%F0%9F%87%B7%F0%9F%87%BA%20Kako%206
