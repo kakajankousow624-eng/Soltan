@@ -1,3 +1,7 @@
+vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@91.196.161.203:7771?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Kako%201
+vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@91.196.161.203:7771?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Kako%202
+vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@91.196.161.203:7771?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Kako%203
+vless://c535a06d-93b1-4a62-af85-4c0a34d7eef7@91.196.161.203:7771?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Kako%204
 vless://a943848c-4121-4216-ac21-343c587d8618@142.250.75.169:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vfdgsdf-1011185819786.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%201%20%F0%9F%87%B8%F0%9F%87%AA
 vless://a943848c-4121-4216-ac21-343c587d8618@142.250.75.169:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vfdgsdf-1011185819786.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%202%20%F0%9F%87%B8%F0%9F%87%AA
 vless://a943848c-4121-4216-ac21-343c587d8618@142.250.75.169:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=yvrxis7cvu-1011185819786.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%203%20%F0%9F%87%AC%F0%9F%87%A7
@@ -8,8 +12,6 @@ vless://a943848c-4121-4216-ac21-343c587d8618@142.251.153.119:443?path=%2F&securi
 vless://a943848c-4121-4216-ac21-343c587d8618@172.253.152.102:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r08znskkqm-1011185819786.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%208%20%F0%9F%87%B7%F0%9F%87%BA
 vless://a943848c-4121-4216-ac21-343c587d8618@142.250.75.169:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sdfgds-1011185819786.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%209%20%F0%9F%87%B3%F0%9F%87%B1
 vless://a943848c-4121-4216-ac21-343c587d8618@142.250.75.169:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sdfgds-1011185819786.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%2010%20%F0%9F%87%B3%F0%9F%87%B1
-vless://a943848c-4121-4216-ac21-343c587d8618@212.147.240.65:724?security=none&encryption=none&headerType=none&type=tcp#Kk%201%20%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@91.196.161.91:443#%F0%9F%87%AB%F0%9F%87%AE%20Kako%20ss%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@91.196.161.91:443#%F0%9F%87%BA%F0%9F%87%B8%20Kako%20ss%202
-vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@91.196.161.3:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Kako%203
-vless://9582fce7-f443-41c1-989d-50e8ea79eb5c@62.60.217.196:66?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Kakajan%20ss
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@85.192.25.101:443#%F0%9F%87%B3%F0%9F%87%B4%20Kakajan%20ss%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@85.192.25.101:443#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%20ss%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@85.192.25.101:443#%F0%9F%87%A8%F0%9F%87%AD%20Kakajan%20ss%203
